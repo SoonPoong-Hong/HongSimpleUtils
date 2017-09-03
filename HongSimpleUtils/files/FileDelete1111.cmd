@@ -1,0 +1,1 @@
+java -cp ./MavenReopositoryCorruptedJarCheck.jar rocklike.utils.file.File1111DeleteApp

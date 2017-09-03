@@ -1,0 +1,1 @@
+java -cp ./MavenReopositoryCorruptedJarCheck.jar rocklike.javafx.maven.MavenRepositoryJarValidityCheckApp
